@@ -1,0 +1,31 @@
+body {
+    background-image:url('https://image.freepik.com/vetores-gratis/plano-de-fundo-verde-abstrato-geometrico_23-2148359494.jpg');
+    background-size: auto 100vh;
+    font-family:arial;
+    height: 100vh;
+  }
+  .menu{
+    background-color:white;
+  }
+  
+  a{
+    text-decoration:none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,.site-subtitle{
+    color:whitesmoke;
+    text-align:center;
+  }
+  .menu ul{
+    display: flex;
+    justify-content:space-around;
+  }
+  
+  
+  .menu li {
+    list-style:none;
+  }
+  
